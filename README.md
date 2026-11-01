@@ -1,2 +1,2 @@
 # rep1
-This is my first trial repository.
+This is my first demo repository.
